@@ -3,4 +3,4 @@ kind: ConfigMap
 metadata:
   name: config
 data:
-  index.html: я люблю мою жену Александру<3
+  index.html: I love Go, Docker and Kubernetes 
